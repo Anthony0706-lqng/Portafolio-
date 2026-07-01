@@ -1,0 +1,10 @@
+=== REPORTE SOC - TURNO MATUTINO ===
+Analista: Anthony
+Fecha: 03/07/2025
+Total Ataques Detectados: 4
+IPs Maliciosas Unicas: 1
+
+LISTA DE BLOQUEO RECOMENDADA:
+ - 45.33.32.156 -> BLOQUEAR EN FIREWALL
+
+Veredicto: ALERTA ROJA. Turno cerrado.
